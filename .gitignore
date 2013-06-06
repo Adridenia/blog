@@ -1,4 +1,6 @@
 wp-content/themes/twentyeleven/*
 wp-content/themes/twentytwelve/*
 
+wp-config.php
+
 .DS_Store
